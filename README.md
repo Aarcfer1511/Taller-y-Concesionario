@@ -4,3 +4,5 @@
 - Alejandro
 - Alberto
 - Daniel
+
+## Idea principal del proyecto
