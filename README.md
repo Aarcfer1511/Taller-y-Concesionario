@@ -1,4 +1,4 @@
-# Taller-y-Concesionario
+# Taller y Concesionario
 
 ## Integrantes
 - Alejandro
