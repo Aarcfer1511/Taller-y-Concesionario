@@ -6,7 +6,7 @@
 - Alberto
 - Daniel
 -----------------------------------
-## Presupuesto Mobiliario y Taller
+##Punto1. Presupuesto Mobiliario y Taller
 
 | Cosas | UD | PRECIO | PRECIO TTAL |
 | :--- | :---: | :---: | :---: |
@@ -58,3 +58,5 @@
 * **Enlace anuncio:** [Milanuncios - Nave industrial en Loja](https://www.milanuncios.com/venta-de-naves-industriales-en-loja-granada/loja-536457821.htm)
 
 <img src = captura1.png>
+------------------------
+Punto2. Redes
