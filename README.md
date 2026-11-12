@@ -58,5 +58,5 @@ Vamos a hacer un proyecto de un taller y concesionario de coches, con sus maquin
 * **Enlace anuncio:** [Milanuncios - Nave industrial en Loja](https://www.milanuncios.com/venta-de-naves-industriales-en-loja-granada/loja-536457821.htm)
 
 <img src = imagenes/captura1.png>
-------------------------
-Punto2. Redes
+
+## Punto2. Redes
