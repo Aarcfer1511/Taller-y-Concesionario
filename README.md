@@ -57,6 +57,6 @@
 
 * **Enlace anuncio:** [Milanuncios - Nave industrial en Loja](https://www.milanuncios.com/venta-de-naves-industriales-en-loja-granada/loja-536457821.htm)
 
-<img src = captura1.png>
+<img src = imagenes/captura1.png>
 ------------------------
 Punto2. Redes
