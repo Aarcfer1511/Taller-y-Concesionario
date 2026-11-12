@@ -1,6 +1,6 @@
 # Proyecto Taller y Concesionario
 ## Idea principal del proyecto
-
+Vamos a hacer un proyecto de un taller y concesionario de coches, con sus maquinas, departamentos con todo lo necesario
 ## Integrantes
 - Alejandro
 - Alberto
