@@ -6,7 +6,7 @@ Vamos a hacer un proyecto de un taller y concesionario de coches, con sus maquin
 - Alberto
 - Daniel
 -----------------------------------
-##Punto1. Presupuesto Mobiliario y Taller
+## Punto1. Presupuesto Mobiliario y Taller
 
 | Cosas | UD | PRECIO | PRECIO TTAL |
 | :--- | :---: | :---: | :---: |
